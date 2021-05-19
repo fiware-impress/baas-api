@@ -1,1 +1,1 @@
-# baas-api
+# API to be used for the BaaS-Demonstrator
